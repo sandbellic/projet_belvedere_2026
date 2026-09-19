@@ -1,0 +1,21 @@
+# Environnements Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Environnement virtuel
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / distribution
+build/
+dist/
+
+# VS Code
+.vscode/
